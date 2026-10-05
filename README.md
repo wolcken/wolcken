@@ -18,10 +18,13 @@ I design and develop complete software solutions, from user interfaces and mobil
 
 ## Featured Work
 
-### Monitoreo de Incendios
-Wildfire monitoring and risk prediction platform for Bolivia.
+### IGNIS — Wildfire Monitoring & Risk Analysis Platform
 
-`Next.js` `NestJS` `PostgreSQL` `PostGIS` `Python` `FastAPI` `LightGBM` `MapLibre`
+Geospatial platform for wildfire monitoring, territorial analysis and fire-risk prediction in Bolivia.
+
+`Next.js` `NestJS` `PostgreSQL` `PostGIS` `FastAPI` `LightGBM` `GIS`
+
+[View Technical Case Study](https://github.com/wolcken/Ignis-Case-Study)
 
 Geospatial processing · Fire detection · Risk prediction · Interactive maps · Data pipelines · Infrastructure
 
