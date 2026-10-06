@@ -147,19 +147,23 @@ Platform designed to identify potential risk indicators in job offers related to
 
 ## CocaRoad
 
-### Mobile Application Modernization
+### Mobile Application & Technical Evolution
 
-Modernization and production-readiness work for a mobile application built around real-time information and Firebase services.
+Mobile application for coca-leaf price information in Bolivia, with regional and community-based consultation, Firebase cloud services and subsequent technical modernization for newer Expo, React Native and Android requirements.
 
 **Areas**
 
-`React Native` `Expo` `TypeScript`  
-`Firebase` `Android`  
+`Mobile Development` `Firebase` `Data Modeling`  
+`Software Modernization` `Android`  
 `Production Readiness`
+
+**Stack**
+
+React Native · Expo · TypeScript · Firebase · Firestore
 
 <br>
 
-*Technical case study coming soon.*
+[**View Technical Case Study →**](https://github.com/wolcken/CocaRoad-Case-Study)
 
 </td>
 
