@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full Stack · Mobile · Data · GIS
 
-Building **web, mobile and data-driven applications** from architecture and backend services to user interfaces, data pipelines and production infrastructure.
+Building and evolving **web, mobile and data-driven software products**, from architecture and backend services to user interfaces, cloud integrations, data pipelines and production infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alfredoramos--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredoramos-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-wolcken-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wolcken)
@@ -15,11 +15,13 @@ Building **web, mobile and data-driven applications** from architecture and back
 
 ## About Me
 
-I'm a Software Engineer focused on designing and building complete software solutions.
+I'm a Software Engineer focused on designing, building and evolving complete software products.
 
-My work spans **frontend, backend, mobile applications, databases, geospatial systems, data processing, Machine Learning integrations and deployment infrastructure**.
+My work spans **frontend, backend, mobile applications, databases, cloud services, geospatial systems, data processing, Machine Learning integrations and deployment infrastructure**.
 
-I am particularly interested in systems where software, data and automation come together to solve real-world problems.
+My portfolio combines real-world technical case studies with public reusable implementations, allowing me to document both the architectural decisions behind software systems and the way I structure application code.
+
+I am particularly interested in systems where **software, data and automation** come together to solve practical problems.
 
 ---
 
