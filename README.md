@@ -172,6 +172,69 @@ React Native · Expo · TypeScript · Firebase · Firestore
 
 ---
 
+# Reusable Templates
+
+Public reference implementations designed as reusable starting points for different business systems.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## Ecommerce Template
+
+Reusable e-commerce foundation with catalog, authentication, cart, orders, reservations, inventory and administrative workflows.
+
+**Stack**
+
+`React` `TypeScript` `Vite`  
+`Firebase` `Firestore` `Cloudinary`
+
+<br>
+
+[**View Repository →**](https://github.com/wolcken/Ecommerce-Template)
+
+</td>
+
+<td width="33%" valign="top">
+
+## PEPS Inventory Template
+
+Inventory-management template with an isolated FIFO / PEPS engine, configurable business rules and pending stock workflows.
+
+**Stack**
+
+`React` `TypeScript`  
+`Firebase` `Jest` `FIFO / PEPS`
+
+<br>
+
+[**View Repository →**](https://github.com/wolcken/PEPS-Inventory-Template)
+
+</td>
+
+<td width="33%" valign="top">
+
+## CPP Management Template
+
+Inventory and billing template based on weighted average cost, Kardex, stock entries, exits and billing workflows.
+
+**Stack**
+
+`React` `TypeScript` `Vite`  
+`Firebase` `Firestore` `CPP`
+
+<br>
+
+[**View Repository →**](https://github.com/wolcken/CPP-Management-Template)
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## Engineering Focus
 
 ```text
