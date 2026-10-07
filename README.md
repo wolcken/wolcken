@@ -250,12 +250,13 @@ Machine Learning           Infrastructure & Deployment
 
 ## Current Focus
 
-- Building scalable backend architectures for mobile platforms
-- Automated risk-analysis systems
+- Full-stack and mobile product development
+- Scalable backend and data architectures
+- Software modernization and technical evolution
 - Geospatial and predictive applications
-- Full-stack product development
+- Automated risk-analysis systems
 - Machine Learning & Data Science
-- Software modernization and infrastructure
+- Reusable software architectures and templates
 
 ---
 
